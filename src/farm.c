@@ -54,6 +54,12 @@ void				process_routes(t_roomlist *farm, int ants, char *out)
 	int				max;
 
 	routes = make_routelist();
+
+//	printf("Knt3 dist to start = %d\nMbi9 dist to start = %d\nTpd6 dist to start = %d\n", find_room_by_name(farm, "Knt3")->dist_to_start,
+//			find_room_by_name(farm, "Mbi9")->dist_to_start, find_room_by_name(farm, "Tpd6")->dist_to_start);
+//	printf("\nAAA\n");
+//	print_room_sequence(find_room_by_name(farm, "Knt3")->links);
+//	printf("\nAAA\n");
 	if ((shortest = get_shortest_route(farm)) == NULL)
 	{
 		free_routelist(routes);
@@ -94,7 +100,7 @@ void				process_routes(t_roomlist *farm, int ants, char *out)
 		free_routelist(backup);
 	}
 	count_moves(routes, ants);
-	printf("%s\n", out);
+//	printf("%s\n", out);
 	free(out);
 	process_ant_migration(routes);
 	free_routelist(routes);

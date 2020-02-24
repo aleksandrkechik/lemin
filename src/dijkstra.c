@@ -144,6 +144,7 @@ t_roomlist		*get_shortest_route(t_roomlist *farm)
 	route = make_list();
 	elem = get_end(farm);
 
+	printf("\n%s-", elem->room->name);
 	prev = NULL;
 	came_from_in_link = 0;
 	add_room(&route, elem->room);
@@ -154,7 +155,7 @@ t_roomlist		*get_shortest_route(t_roomlist *farm)
 		iter = elem->room->links->next;
 		while (iter != NULL)
 		{
-			if (iter->room->dist_to_start != MIN_INT && get_cost(iter, elem) != BLOCKED && (min == -1 || min > iter->room->dist_to_start)  && !contain_room(route, iter))
+			if (iter->room->dist_to_start != -1 && iter->room->dist_to_start != MIN_INT && get_cost(iter, elem) != BLOCKED && (min == -1 || min > iter->room->dist_to_start)  && !contain_room(route, iter))
 			{
 				if (elem->room->is_route_part == 0 || (prev->room->is_route_part == 1 && iter->room->is_route_part == 0)
 				|| (elem->room->link_from_in_to_out->room->index == iter->room->index))
@@ -168,12 +169,15 @@ t_roomlist		*get_shortest_route(t_roomlist *farm)
 		if (child == NULL)
 		{
 			free_roomlist(route);
+			printf("\n");
 			return (NULL);
 		}
+		printf("%s(%d)-", child->room->name, child->room->dist_to_start);
 		add_room_to_head(&route, child->room);
 		prev = elem;
 		elem = child;
 	}
+	printf("\n");
 	return (route);
 }
 

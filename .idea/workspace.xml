@@ -12,9 +12,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="270e474d-b58d-4ce9-b890-1deb0e168f73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/ants.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/ants.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/dijkstra.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/dijkstra.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/farm.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/farm.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lemin_second" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lemin_second" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printflib" beforeDir="false" afterPath="$PROJECT_DIR$/printflib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/printflib/color_handling.c" beforeDir="false" afterPath="$PROJECT_DIR$/printflib/color_handling.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/printflib/ft_printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/printflib/ft_printf.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/printflib/insert_replacement.c" beforeDir="false" afterPath="$PROJECT_DIR$/printflib/insert_replacement.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dijkstra.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/dijkstra.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/farm.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/farm.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +37,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/printflib" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1WKvYLCh7Ha6Z1puSpfh4U8F2yn" />
@@ -118,6 +128,7 @@
       <workItem from="1582019666040" duration="5599000" />
       <workItem from="1582107041620" duration="3992000" />
       <workItem from="1582113022119" duration="59000" />
+      <workItem from="1582539391349" duration="1446000" />
     </task>
     <servers />
   </component>
@@ -198,7 +209,7 @@
         <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <condition expression="ft_strequ(room-&gt;room-&gt;name, &quot;2&quot;) == 1" language="ObjectiveC" />
           <url>file://$PROJECT_DIR$/src/dijkstra.c</url>
-          <line>60</line>
+          <line>31</line>
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
@@ -214,12 +225,12 @@
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <condition expression="get_number_of_routes(routes) == 3" language="ObjectiveC" />
           <url>file://$PROJECT_DIR$/src/farm.c</url>
-          <line>92</line>
+          <line>80</line>
           <option name="timeStamp" value="180" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/src/farm.c</url>
-          <line>94</line>
+          <line>82</line>
           <option name="timeStamp" value="181" />
         </line-breakpoint>
       </breakpoints>
