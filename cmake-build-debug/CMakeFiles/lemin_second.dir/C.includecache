@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hturkatr/Desktop/projects/lemin_stdin/includes/lemin.h
+stdio.h
+-
+../printflib/ft_printf.h
+/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_printf.h
+fcntl.h
+-
+
+/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/arg_list.h
+ft_printf.h
+/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_printf.h
+
+/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_printf.h
+libft.h
+/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/libft.h
+stdarg.h
+-
+arg_list.h
+/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/arg_list.h
+
+/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/libft.h
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/hturkatr/Desktop/projects/lemin_stdin/src/farm.c
+../includes/lemin.h
+/Users/hturkatr/Desktop/projects/lemin_stdin/includes/lemin.h
+

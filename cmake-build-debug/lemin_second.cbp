@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lemin_second"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lemin_second">
+				<Option output="/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/lemin_second" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/hturkatr/Desktop/projects/lemin_stdin/includes"/>
+					<Add directory="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 lemin_second"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lemin_second/fast">
+				<Option output="/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/lemin_second" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/hturkatr/Desktop/projects/lemin_stdin/includes"/>
+					<Add directory="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 lemin_second/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/includes/lemin.h">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/arg_list.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/arg_list.h">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/arg_list2.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/check_extra_flags.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/check_extra_flags2.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/color_handling.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/color_handling2.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/django_stuff.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/exp_handling.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/flag_validation.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/float_handling.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_atoi.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_bzero.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_calloc.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_cheer_me_up.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_countletters.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_destroy_t_map.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_destroy_t_vector.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_ftoa.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_ftoa2.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_isalnum.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_isalpha.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_isascii.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_isdigit.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_isprint.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_itoa.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_itoa_base.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lst_add_tail.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lst_elem_cpy.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstadd.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstcpy.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstdel.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstdel_elem.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstdelete.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstdelone.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstiter.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstmap.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_lstnew.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_make_t_map.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_make_t_vector.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_make_t_vector_2.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memalloc.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memccpy.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memchr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memcmp.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memcpy.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memdel.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memdup.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memmove.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_memset.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_printf.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_printf.h">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_putchar.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_putchar_fd.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_putendl.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_putendl_fd.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_puterr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_putnbr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_putnbr_fd.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_putstr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_putstr_fd.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_realloc.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strcat.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strchr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strclr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strcmp.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strcpy.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strdel.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strdup.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strequ.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_striter.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_striteri.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strjoin.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strlcat.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strlen.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strmap.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strmapi.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strncat.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strncmp.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strncpy.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strnequ.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strnew.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strnstr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strrchr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strsplit.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strstr.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strsub.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_strtrim.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_tolower.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_toupper.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/ft_utoa_base.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/g_stuff_handling.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/gap_flag.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/handle_double_mod.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/insert_replacement.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/int_handling.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/int_precision.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/int_to_str.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/libft.h">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/make_arg_list.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/make_arg_list2.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/make_arg_list3.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/make_arg_vector.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/parse_for_arg.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/plus_flag.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/pointer_handlng.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/print_unprintable.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/string_handling.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/printflib/timey_whimey.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/ants.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/farm.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/freeing_stuff.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/gnl.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/input2_handling.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/links_from_in_to_out_and_route_parts.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/main.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/printing_stuff.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/room.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/roomlist.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/route.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/suurballe.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
