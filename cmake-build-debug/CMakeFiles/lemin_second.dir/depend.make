@@ -373,17 +373,47 @@ CMakeFiles/lemin_second.dir/src/ants.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/ants.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/ants.c.o: ../src/ants.c
 
+CMakeFiles/lemin_second.dir/src/ants_2.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/ants_2.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/ants_2.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/ants_2.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/ants_2.c.o: ../src/ants_2.c
+
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o: ../src/bring_balance_to_the_force_not_destroy_it.c
+
 CMakeFiles/lemin_second.dir/src/dijkstra.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/dijkstra.c.o: ../printflib/arg_list.h
 CMakeFiles/lemin_second.dir/src/dijkstra.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/dijkstra.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/dijkstra.c.o: ../src/dijkstra.c
 
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o: ../src/dijkstra_2.c
+
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o: ../src/dijkstra_3.c
+
 CMakeFiles/lemin_second.dir/src/farm.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/farm.c.o: ../printflib/arg_list.h
 CMakeFiles/lemin_second.dir/src/farm.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/farm.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/farm.c.o: ../src/farm.c
+
+CMakeFiles/lemin_second.dir/src/farm_2.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/farm_2.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/farm_2.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/farm_2.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/farm_2.c.o: ../src/farm_2.c
 
 CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o: ../printflib/arg_list.h
@@ -397,12 +427,6 @@ CMakeFiles/lemin_second.dir/src/gnl.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/gnl.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/gnl.c.o: ../src/gnl.c
 
-CMakeFiles/lemin_second.dir/src/input2_handling.c.o: ../includes/lemin.h
-CMakeFiles/lemin_second.dir/src/input2_handling.c.o: ../printflib/arg_list.h
-CMakeFiles/lemin_second.dir/src/input2_handling.c.o: ../printflib/ft_printf.h
-CMakeFiles/lemin_second.dir/src/input2_handling.c.o: ../printflib/libft.h
-CMakeFiles/lemin_second.dir/src/input2_handling.c.o: ../src/input2_handling.c
-
 CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o: ../printflib/arg_list.h
 CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o: ../printflib/ft_printf.h
@@ -415,11 +439,11 @@ CMakeFiles/lemin_second.dir/src/main.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/main.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/main.c.o: ../src/main.c
 
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.o: ../includes/lemin.h
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.o: ../printflib/arg_list.h
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.o: ../printflib/ft_printf.h
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.o: ../printflib/libft.h
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.o: ../src/printing_stuff.c
+CMakeFiles/lemin_second.dir/src/process_room.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/process_room.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/process_room.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/process_room.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/process_room.c.o: ../src/process_room.c
 
 CMakeFiles/lemin_second.dir/src/read_input.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/read_input.c.o: ../printflib/arg_list.h
@@ -427,11 +451,29 @@ CMakeFiles/lemin_second.dir/src/read_input.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/read_input.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/read_input.c.o: ../src/read_input.c
 
+CMakeFiles/lemin_second.dir/src/read_input1.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/read_input1.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/read_input1.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/read_input1.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/read_input1.c.o: ../src/read_input1.c
+
+CMakeFiles/lemin_second.dir/src/read_input2.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/read_input2.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/read_input2.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/read_input2.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/read_input2.c.o: ../src/read_input2.c
+
 CMakeFiles/lemin_second.dir/src/room.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/room.c.o: ../printflib/arg_list.h
 CMakeFiles/lemin_second.dir/src/room.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/room.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/room.c.o: ../src/room.c
+
+CMakeFiles/lemin_second.dir/src/room_2.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/room_2.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/room_2.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/room_2.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/room_2.c.o: ../src/room_2.c
 
 CMakeFiles/lemin_second.dir/src/roomlist.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/roomlist.c.o: ../printflib/arg_list.h
@@ -439,15 +481,33 @@ CMakeFiles/lemin_second.dir/src/roomlist.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/roomlist.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/roomlist.c.o: ../src/roomlist.c
 
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.o: ../src/roomlist_2.c
+
 CMakeFiles/lemin_second.dir/src/route.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/route.c.o: ../printflib/arg_list.h
 CMakeFiles/lemin_second.dir/src/route.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/route.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/route.c.o: ../src/route.c
 
+CMakeFiles/lemin_second.dir/src/route_2.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/route_2.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/route_2.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/route_2.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/route_2.c.o: ../src/route_2.c
+
 CMakeFiles/lemin_second.dir/src/suurballe.c.o: ../includes/lemin.h
 CMakeFiles/lemin_second.dir/src/suurballe.c.o: ../printflib/arg_list.h
 CMakeFiles/lemin_second.dir/src/suurballe.c.o: ../printflib/ft_printf.h
 CMakeFiles/lemin_second.dir/src/suurballe.c.o: ../printflib/libft.h
 CMakeFiles/lemin_second.dir/src/suurballe.c.o: ../src/suurballe.c
+
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.o: ../includes/lemin.h
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.o: ../printflib/arg_list.h
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.o: ../printflib/ft_printf.h
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.o: ../printflib/libft.h
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.o: ../src/suurballe_2.c
 

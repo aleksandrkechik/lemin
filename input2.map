@@ -1,20 +1,9 @@
 11
 ##start
 A 1 4
-#comment
-D 4 1
-C 1 2
-B 4 5
-E 7 4
 ##end
-F 7 2
+E 7 4
 #another comment
-D-F
-D-B
-D-C
-C-A
-A-B
-B-E
-E-F
+A-E
 #another comment
 

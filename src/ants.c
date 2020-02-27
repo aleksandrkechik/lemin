@@ -50,20 +50,17 @@ int		get_mumber_of_ants_to_move(t_routelist *route)
 int		need_space(t_routelist *route)
 {
 	t_routelist		*iter;
-	int				ret;
 
 	iter = route->next;
-	ret = 1;
 	while (iter != NULL)
 	{
 		if (iter->ants_moving != 0)
 		{
-			printf (" ");
+			printf(" ");
 			return (0);
 		}
 		iter = iter->next;
 	}
-//	printf("\n");
 	return (0);
 }
 
@@ -113,104 +110,4 @@ void	give_birth_to_the_ant(int number, t_routelist *route)
 		route->last = ant;
 	}
 	route->ants_moving++;
-}
-
-int	show_stopper(t_routelist *routes)
-{
-	t_routelist *iter;
-
-	iter = routes->next;
-	while (iter != NULL)
-	{
-		if (iter->moves > 0)
-			return (0);
-		iter = iter->next;
-	}
-	return (1);
-}
-
-////ТУТ ВСЕ ПОМЕНЯТЬ
-int		need_newline(t_routelist *route)
-{
-	if (route->last_route == 1)
-		return (1);
-	if (route->next != NULL && route->next->first != NULL && route->next->last != NULL && route->next->last->at_end == 1)
-		return (1);
-	return (0);
-}
-
-//////BACKUP
-//void	process_ant_migration(t_routelist *routes)
-//{
-//	t_routelist		*iter;
-//	int				ants_moved;
-//
-//	ants_moved = 1;
-//	iter = routes->next;
-//	get_number_of_routes(routes);
-//	while (1)
-//	{
-//		while (iter != NULL)
-//		{
-//			if (iter->moves > 0)
-//			{
-//				if (iter->ants >= 1)
-//				{
-//					give_birth_to_the_ant(ants_moved, iter);
-//					ants_moved++;
-//					iter->ants--;
-//				}
-//				if (iter->last == NULL || iter->last->at_end != 1)
-//				{
-//					move_all_ants(iter);
-////					if (iter->last != NULL && iter->last->at_end == 0)
-////					if (iter->last_route == 1 && iter->last->at_end == 0)
-////					if (need_newline(iter))
-////						printf ("\n");
-//				}
-//				iter->moves--;
-//			}
-//			iter = iter->next;
-//		}
-//		iter = routes->next;
-//		if (show_stopper(routes) == 1)
-//			break;
-//	}
-////    printf ("\n");
-//}
-
-//////NEW
-void	process_ant_migration(t_routelist *routes)
-{
-	t_routelist		*iter;
-	int				ants_moved;
-
-	ants_moved = 1;
-	iter = routes->next;
-	get_number_of_routes(routes);
-	while (1) {
-		while (iter != NULL) {
-			if (iter->moves > 0) {
-				if (iter->ants >= 1) {
-					give_birth_to_the_ant(ants_moved, iter);
-					ants_moved++;
-					iter->ants--;
-				}
-			}
-			iter = iter->next;
-		}
-		iter = routes->next;
-		while (iter != NULL) {
-			if (iter->last == NULL || iter->last->at_end != 1)
-			{
-				move_all_ants(iter);
-			}
-			iter->moves--;
-			iter = iter->next;
-		}
-		iter = routes->next;
-		if (show_stopper(routes) == 1)
-			break;
-		printf("\n");
-	}
 }

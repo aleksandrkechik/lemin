@@ -118,4 +118,4 @@ add_executable(lemin_second
         printflib/string_handling.c
         printflib/timey_whimey.c
         src/gnl.c
-        src/main.c src/read_input.c src/roomlist.c src/room.c src/printing_stuff.c src/dijkstra.c src/suurballe.c src/input2_handling.c src/route.c src/ants.c src/farm.c src/freeing_stuff.c src/links_from_in_to_out_and_route_parts.c)
+        src/main.c src/read_input.c src/roomlist.c src/room.c src/dijkstra.c src/suurballe.c src/route.c src/ants.c src/farm.c src/freeing_stuff.c src/links_from_in_to_out_and_route_parts.c src/ants_2.c src/dijkstra_2.c src/dijkstra_3.c src/farm_2.c src/process_room.c src/read_input1.c src/read_input2.c src/room_2.c src/roomlist_2.c src/bring_balance_to_the_force_not_destroy_it.c src/route_2.c src/suurballe_2.c)

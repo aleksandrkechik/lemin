@@ -1500,22 +1500,9 @@ CMakeFiles/lemin_second.dir/src/room.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/room.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/room.c -o CMakeFiles/lemin_second.dir/src/room.c.s
 
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.o: CMakeFiles/lemin_second.dir/flags.make
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.o: ../src/printing_stuff.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/lemin_second.dir/src/printing_stuff.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/printing_stuff.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/printing_stuff.c
-
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/printing_stuff.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/printing_stuff.c > CMakeFiles/lemin_second.dir/src/printing_stuff.c.i
-
-CMakeFiles/lemin_second.dir/src/printing_stuff.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/printing_stuff.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/printing_stuff.c -o CMakeFiles/lemin_second.dir/src/printing_stuff.c.s
-
 CMakeFiles/lemin_second.dir/src/dijkstra.c.o: CMakeFiles/lemin_second.dir/flags.make
 CMakeFiles/lemin_second.dir/src/dijkstra.c.o: ../src/dijkstra.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/lemin_second.dir/src/dijkstra.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/lemin_second.dir/src/dijkstra.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/dijkstra.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra.c
 
 CMakeFiles/lemin_second.dir/src/dijkstra.c.i: cmake_force
@@ -1528,7 +1515,7 @@ CMakeFiles/lemin_second.dir/src/dijkstra.c.s: cmake_force
 
 CMakeFiles/lemin_second.dir/src/suurballe.c.o: CMakeFiles/lemin_second.dir/flags.make
 CMakeFiles/lemin_second.dir/src/suurballe.c.o: ../src/suurballe.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/lemin_second.dir/src/suurballe.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/lemin_second.dir/src/suurballe.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/suurballe.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/suurballe.c
 
 CMakeFiles/lemin_second.dir/src/suurballe.c.i: cmake_force
@@ -1539,22 +1526,9 @@ CMakeFiles/lemin_second.dir/src/suurballe.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/suurballe.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/suurballe.c -o CMakeFiles/lemin_second.dir/src/suurballe.c.s
 
-CMakeFiles/lemin_second.dir/src/input2_handling.c.o: CMakeFiles/lemin_second.dir/flags.make
-CMakeFiles/lemin_second.dir/src/input2_handling.c.o: ../src/input2_handling.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/lemin_second.dir/src/input2_handling.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/input2_handling.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/input2_handling.c
-
-CMakeFiles/lemin_second.dir/src/input2_handling.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/input2_handling.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/input2_handling.c > CMakeFiles/lemin_second.dir/src/input2_handling.c.i
-
-CMakeFiles/lemin_second.dir/src/input2_handling.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/input2_handling.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/input2_handling.c -o CMakeFiles/lemin_second.dir/src/input2_handling.c.s
-
 CMakeFiles/lemin_second.dir/src/route.c.o: CMakeFiles/lemin_second.dir/flags.make
 CMakeFiles/lemin_second.dir/src/route.c.o: ../src/route.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/lemin_second.dir/src/route.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/lemin_second.dir/src/route.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/route.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/route.c
 
 CMakeFiles/lemin_second.dir/src/route.c.i: cmake_force
@@ -1567,7 +1541,7 @@ CMakeFiles/lemin_second.dir/src/route.c.s: cmake_force
 
 CMakeFiles/lemin_second.dir/src/ants.c.o: CMakeFiles/lemin_second.dir/flags.make
 CMakeFiles/lemin_second.dir/src/ants.c.o: ../src/ants.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/lemin_second.dir/src/ants.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/lemin_second.dir/src/ants.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/ants.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/ants.c
 
 CMakeFiles/lemin_second.dir/src/ants.c.i: cmake_force
@@ -1580,7 +1554,7 @@ CMakeFiles/lemin_second.dir/src/ants.c.s: cmake_force
 
 CMakeFiles/lemin_second.dir/src/farm.c.o: CMakeFiles/lemin_second.dir/flags.make
 CMakeFiles/lemin_second.dir/src/farm.c.o: ../src/farm.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/lemin_second.dir/src/farm.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/lemin_second.dir/src/farm.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/farm.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/farm.c
 
 CMakeFiles/lemin_second.dir/src/farm.c.i: cmake_force
@@ -1593,7 +1567,7 @@ CMakeFiles/lemin_second.dir/src/farm.c.s: cmake_force
 
 CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o: CMakeFiles/lemin_second.dir/flags.make
 CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o: ../src/freeing_stuff.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/freeing_stuff.c
 
 CMakeFiles/lemin_second.dir/src/freeing_stuff.c.i: cmake_force
@@ -1606,7 +1580,7 @@ CMakeFiles/lemin_second.dir/src/freeing_stuff.c.s: cmake_force
 
 CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o: CMakeFiles/lemin_second.dir/flags.make
 CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o: ../src/links_from_in_to_out_and_route_parts.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/links_from_in_to_out_and_route_parts.c
 
 CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.i: cmake_force
@@ -1616,6 +1590,162 @@ CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.i: cmake_
 CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/links_from_in_to_out_and_route_parts.c -o CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.s
+
+CMakeFiles/lemin_second.dir/src/ants_2.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/ants_2.c.o: ../src/ants_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/lemin_second.dir/src/ants_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/ants_2.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/ants_2.c
+
+CMakeFiles/lemin_second.dir/src/ants_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/ants_2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/ants_2.c > CMakeFiles/lemin_second.dir/src/ants_2.c.i
+
+CMakeFiles/lemin_second.dir/src/ants_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/ants_2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/ants_2.c -o CMakeFiles/lemin_second.dir/src/ants_2.c.s
+
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o: ../src/dijkstra_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra_2.c
+
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/dijkstra_2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra_2.c > CMakeFiles/lemin_second.dir/src/dijkstra_2.c.i
+
+CMakeFiles/lemin_second.dir/src/dijkstra_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/dijkstra_2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra_2.c -o CMakeFiles/lemin_second.dir/src/dijkstra_2.c.s
+
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o: ../src/dijkstra_3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra_3.c
+
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/dijkstra_3.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra_3.c > CMakeFiles/lemin_second.dir/src/dijkstra_3.c.i
+
+CMakeFiles/lemin_second.dir/src/dijkstra_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/dijkstra_3.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra_3.c -o CMakeFiles/lemin_second.dir/src/dijkstra_3.c.s
+
+CMakeFiles/lemin_second.dir/src/farm_2.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/farm_2.c.o: ../src/farm_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/lemin_second.dir/src/farm_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/farm_2.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/farm_2.c
+
+CMakeFiles/lemin_second.dir/src/farm_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/farm_2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/farm_2.c > CMakeFiles/lemin_second.dir/src/farm_2.c.i
+
+CMakeFiles/lemin_second.dir/src/farm_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/farm_2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/farm_2.c -o CMakeFiles/lemin_second.dir/src/farm_2.c.s
+
+CMakeFiles/lemin_second.dir/src/process_room.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/process_room.c.o: ../src/process_room.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/lemin_second.dir/src/process_room.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/process_room.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/process_room.c
+
+CMakeFiles/lemin_second.dir/src/process_room.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/process_room.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/process_room.c > CMakeFiles/lemin_second.dir/src/process_room.c.i
+
+CMakeFiles/lemin_second.dir/src/process_room.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/process_room.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/process_room.c -o CMakeFiles/lemin_second.dir/src/process_room.c.s
+
+CMakeFiles/lemin_second.dir/src/read_input1.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/read_input1.c.o: ../src/read_input1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/lemin_second.dir/src/read_input1.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/read_input1.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input1.c
+
+CMakeFiles/lemin_second.dir/src/read_input1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/read_input1.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input1.c > CMakeFiles/lemin_second.dir/src/read_input1.c.i
+
+CMakeFiles/lemin_second.dir/src/read_input1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/read_input1.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input1.c -o CMakeFiles/lemin_second.dir/src/read_input1.c.s
+
+CMakeFiles/lemin_second.dir/src/read_input2.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/read_input2.c.o: ../src/read_input2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/lemin_second.dir/src/read_input2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/read_input2.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input2.c
+
+CMakeFiles/lemin_second.dir/src/read_input2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/read_input2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input2.c > CMakeFiles/lemin_second.dir/src/read_input2.c.i
+
+CMakeFiles/lemin_second.dir/src/read_input2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/read_input2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input2.c -o CMakeFiles/lemin_second.dir/src/read_input2.c.s
+
+CMakeFiles/lemin_second.dir/src/room_2.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/room_2.c.o: ../src/room_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/lemin_second.dir/src/room_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/room_2.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/room_2.c
+
+CMakeFiles/lemin_second.dir/src/room_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/room_2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/room_2.c > CMakeFiles/lemin_second.dir/src/room_2.c.i
+
+CMakeFiles/lemin_second.dir/src/room_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/room_2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/room_2.c -o CMakeFiles/lemin_second.dir/src/room_2.c.s
+
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.o: ../src/roomlist_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/lemin_second.dir/src/roomlist_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/roomlist_2.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/roomlist_2.c
+
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/roomlist_2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/roomlist_2.c > CMakeFiles/lemin_second.dir/src/roomlist_2.c.i
+
+CMakeFiles/lemin_second.dir/src/roomlist_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/roomlist_2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/roomlist_2.c -o CMakeFiles/lemin_second.dir/src/roomlist_2.c.s
+
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o: ../src/bring_balance_to_the_force_not_destroy_it.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/bring_balance_to_the_force_not_destroy_it.c
+
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/bring_balance_to_the_force_not_destroy_it.c > CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.i
+
+CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/bring_balance_to_the_force_not_destroy_it.c -o CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.s
+
+CMakeFiles/lemin_second.dir/src/route_2.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/route_2.c.o: ../src/route_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/lemin_second.dir/src/route_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/route_2.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/route_2.c
+
+CMakeFiles/lemin_second.dir/src/route_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/route_2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/route_2.c > CMakeFiles/lemin_second.dir/src/route_2.c.i
+
+CMakeFiles/lemin_second.dir/src/route_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/route_2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/route_2.c -o CMakeFiles/lemin_second.dir/src/route_2.c.s
+
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.o: CMakeFiles/lemin_second.dir/flags.make
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.o: ../src/suurballe_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/lemin_second.dir/src/suurballe_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lemin_second.dir/src/suurballe_2.c.o   -c /Users/hturkatr/Desktop/projects/lemin_stdin/src/suurballe_2.c
+
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lemin_second.dir/src/suurballe_2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hturkatr/Desktop/projects/lemin_stdin/src/suurballe_2.c > CMakeFiles/lemin_second.dir/src/suurballe_2.c.i
+
+CMakeFiles/lemin_second.dir/src/suurballe_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lemin_second.dir/src/suurballe_2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hturkatr/Desktop/projects/lemin_stdin/src/suurballe_2.c -o CMakeFiles/lemin_second.dir/src/suurballe_2.c.s
 
 # Object files for target lemin_second
 lemin_second_OBJECTS = \
@@ -1730,15 +1860,25 @@ lemin_second_OBJECTS = \
 "CMakeFiles/lemin_second.dir/src/read_input.c.o" \
 "CMakeFiles/lemin_second.dir/src/roomlist.c.o" \
 "CMakeFiles/lemin_second.dir/src/room.c.o" \
-"CMakeFiles/lemin_second.dir/src/printing_stuff.c.o" \
 "CMakeFiles/lemin_second.dir/src/dijkstra.c.o" \
 "CMakeFiles/lemin_second.dir/src/suurballe.c.o" \
-"CMakeFiles/lemin_second.dir/src/input2_handling.c.o" \
 "CMakeFiles/lemin_second.dir/src/route.c.o" \
 "CMakeFiles/lemin_second.dir/src/ants.c.o" \
 "CMakeFiles/lemin_second.dir/src/farm.c.o" \
 "CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o" \
-"CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o"
+"CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o" \
+"CMakeFiles/lemin_second.dir/src/ants_2.c.o" \
+"CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o" \
+"CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o" \
+"CMakeFiles/lemin_second.dir/src/farm_2.c.o" \
+"CMakeFiles/lemin_second.dir/src/process_room.c.o" \
+"CMakeFiles/lemin_second.dir/src/read_input1.c.o" \
+"CMakeFiles/lemin_second.dir/src/read_input2.c.o" \
+"CMakeFiles/lemin_second.dir/src/room_2.c.o" \
+"CMakeFiles/lemin_second.dir/src/roomlist_2.c.o" \
+"CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o" \
+"CMakeFiles/lemin_second.dir/src/route_2.c.o" \
+"CMakeFiles/lemin_second.dir/src/suurballe_2.c.o"
 
 # External object files for target lemin_second
 lemin_second_EXTERNAL_OBJECTS =
@@ -1854,18 +1994,28 @@ lemin_second: CMakeFiles/lemin_second.dir/src/main.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/read_input.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/roomlist.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/room.c.o
-lemin_second: CMakeFiles/lemin_second.dir/src/printing_stuff.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/dijkstra.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/suurballe.c.o
-lemin_second: CMakeFiles/lemin_second.dir/src/input2_handling.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/route.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/ants.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/farm.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o
 lemin_second: CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/ants_2.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/dijkstra_2.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/dijkstra_3.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/farm_2.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/process_room.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/read_input1.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/read_input2.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/room_2.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/roomlist_2.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/bring_balance_to_the_force_not_destroy_it.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/route_2.c.o
+lemin_second: CMakeFiles/lemin_second.dir/src/suurballe_2.c.o
 lemin_second: CMakeFiles/lemin_second.dir/build.make
 lemin_second: CMakeFiles/lemin_second.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Linking C executable lemin_second"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/hturkatr/Desktop/projects/lemin_stdin/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Linking C executable lemin_second"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lemin_second.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

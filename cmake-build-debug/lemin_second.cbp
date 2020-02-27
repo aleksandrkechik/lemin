@@ -417,10 +417,25 @@
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/ants.c">
 			<Option target="lemin_second"/>
 		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/ants_2.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/bring_balance_to_the_force_not_destroy_it.c">
+			<Option target="lemin_second"/>
+		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra.c">
 			<Option target="lemin_second"/>
 		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra_2.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/dijkstra_3.c">
+			<Option target="lemin_second"/>
+		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/farm.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/farm_2.c">
 			<Option target="lemin_second"/>
 		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/freeing_stuff.c">
@@ -429,31 +444,46 @@
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/gnl.c">
 			<Option target="lemin_second"/>
 		</Unit>
-		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/input2_handling.c">
-			<Option target="lemin_second"/>
-		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/links_from_in_to_out_and_route_parts.c">
 			<Option target="lemin_second"/>
 		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/main.c">
 			<Option target="lemin_second"/>
 		</Unit>
-		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/printing_stuff.c">
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/process_room.c">
 			<Option target="lemin_second"/>
 		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input.c">
 			<Option target="lemin_second"/>
 		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input1.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/read_input2.c">
+			<Option target="lemin_second"/>
+		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/room.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/room_2.c">
 			<Option target="lemin_second"/>
 		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/roomlist.c">
 			<Option target="lemin_second"/>
 		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/roomlist_2.c">
+			<Option target="lemin_second"/>
+		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/route.c">
 			<Option target="lemin_second"/>
 		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/route_2.c">
+			<Option target="lemin_second"/>
+		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/suurballe.c">
+			<Option target="lemin_second"/>
+		</Unit>
+		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/src/suurballe_2.c">
 			<Option target="lemin_second"/>
 		</Unit>
 		<Unit filename="/Users/hturkatr/Desktop/projects/lemin_stdin/CMakeLists.txt">

@@ -12,19 +12,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="270e474d-b58d-4ce9-b890-1deb0e168f73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ants_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bring_balance_to_the_force_not_destroy_it.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dijkstra_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dijkstra_3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/farm_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/process_room.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/read_input1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/read_input2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/room_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roomlist_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/route_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suurballe_2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/ants.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/ants.c.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/dijkstra.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/dijkstra.c.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/farm.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/farm.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/freeing_stuff.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/input2_handling.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/links_from_in_to_out_and_route_parts.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/printing_stuff.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/read_input.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/read_input.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/room.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/room.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/roomlist.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/roomlist.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/route.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/route.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/suurballe.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lemin_second.dir/src/suurballe.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/lemin_second" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lemin_second" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lemin_second.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lemin_second.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lemin_second.dSYM/Contents/Resources/DWARF/lemin_second" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lemin_second.dSYM/Contents/Resources/DWARF/lemin_second" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/lemin.h" beforeDir="false" afterPath="$PROJECT_DIR$/includes/lemin.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input2.map" beforeDir="false" afterPath="$PROJECT_DIR$/input2.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem-in" beforeDir="false" afterPath="$PROJECT_DIR$/lem-in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/printflib" beforeDir="false" afterPath="$PROJECT_DIR$/printflib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/printflib/color_handling.c" beforeDir="false" afterPath="$PROJECT_DIR$/printflib/color_handling.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/printflib/ft_printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/printflib/ft_printf.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/printflib/insert_replacement.c" beforeDir="false" afterPath="$PROJECT_DIR$/printflib/insert_replacement.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ants.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/ants.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ants.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/ants.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dijkstra.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/dijkstra.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dijkstra.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/dijkstra.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/farm.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/farm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/farm.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/farm.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/freeing_stuff.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/freeing_stuff.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/freeing_stuff.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/freeing_stuff.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gnl.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/gnl.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input2_handling.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input2_handling.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/links_from_in_to_out_and_route_parts.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/links_from_in_to_out_and_route_parts.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printing_stuff.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printing_stuff.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/read_input.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/read_input.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/read_input.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/read_input.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/room.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/room.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/room.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/room.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/roomlist.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/roomlist.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/roomlist.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/roomlist.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/route.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/route.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/route.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/route.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suurballe.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/suurballe.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/suurballe.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/suurballe.o" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +117,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,7 +187,12 @@
       <workItem from="1582019666040" duration="5599000" />
       <workItem from="1582107041620" duration="3992000" />
       <workItem from="1582113022119" duration="59000" />
-      <workItem from="1582539391349" duration="1446000" />
+      <workItem from="1582539391349" duration="3673000" />
+      <workItem from="1582625392573" duration="43000" />
+      <workItem from="1582626362732" duration="3286000" />
+      <workItem from="1582633933995" duration="6809000" />
+      <workItem from="1582711941293" duration="11754000" />
+      <workItem from="1582809720910" duration="5334000" />
     </task>
     <servers />
   </component>
@@ -201,44 +265,22 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/route.c</url>
-          <line>134</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
         <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <condition expression="ft_strequ(room-&gt;room-&gt;name, &quot;2&quot;) == 1" language="ObjectiveC" />
           <url>file://$PROJECT_DIR$/src/dijkstra.c</url>
-          <line>31</line>
+          <line>21</line>
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/ants.c</url>
-          <line>97</line>
-          <option name="timeStamp" value="177" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/ants.c</url>
-          <line>75</line>
+          <url>file://$PROJECT_DIR$/src/dijkstra_2.c</url>
+          <line>43</line>
           <option name="timeStamp" value="179" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <condition expression="get_number_of_routes(routes) == 3" language="ObjectiveC" />
-          <url>file://$PROJECT_DIR$/src/farm.c</url>
-          <line>80</line>
-          <option name="timeStamp" value="180" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/farm.c</url>
-          <line>82</line>
-          <option name="timeStamp" value="181" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="elem-&gt;room-&gt;name" language="ObjectiveC" />
-        <watch expression="child-&gt;room-&gt;name" language="ObjectiveC" />
+        <watch expression="iter-&gt;room-&gt;name" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
